@@ -26,7 +26,9 @@ If you want to use my reset styles, then feel free! It's all explicitly in the p
    v2.0 | 20110126
    License: none (public domain)
 */
-
+body{
+	background-color:red;
+}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
